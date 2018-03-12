@@ -1,1 +1,1 @@
-# Study React Courses From scotch.io
+# Study ES6 From scotch.io
